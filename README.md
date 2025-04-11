@@ -1,60 +1,93 @@
-<h1 align="center">Hi 👋, I'm VISHAL RAJPUT</h1>
-<h3 align="center">A passionate WEB2.0/3.0 developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=callme-vr&label=Profile%20views&color=0e75b6&style=flat" alt="callme-vr" /> </p>
-
-<p align="left"> 
-  <a href="https://twitter.com/@codeai_vishal" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@codeai_vishal?logo=twitter&style=for-the-badge" alt="@codeai_vishal" />
-  </a> 
+<p align="center">
+  <img src="https://github.com/Callme-VR/Callme-VR/blob/main/Aesthetic%20Twitter%20Header.png?raw=true" alt="Vishal Rajput Banner"/>
 </p>
 
-- 🌱 I’m currently learning **CSE**
-- 💬 Ask me about **Web2.0/3.0 Development**
-- 📫 Reach me at **vr347147@gmail.com**
-- ⚡ Fun fact: **I think I am funny 😄**
+<h1 align="center">Hi 👋, I'm Vishal Rajput</h1>
+<h3 align="center">A Passionate Web2.0/3.0 Developer | Open Source Contributor | AI Enthusiast</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Blockchain+Explorer;AI+is+the+Future" alt="Typing SVG" />
+</p>
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/@codeai_vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/vishal rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/vishal1_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://discord.gg/callme_vsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=callme-vr&label=Profile%20views&color=0e75b6&style=flat" alt="callme-vr" />
 </p>
 
 ---
 
-### 💻 Languages and Tools:
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-- 📄 **HTML5**, 🎨 **CSS3**, 🎨 **TailwindCSS**
-- ⚛ **React**, 🔷 **TypeScript**, 🟨 **JavaScript**
-- ⬛ **Node.js**, 🔁 **Express.js**, ⚙️ **MongoDB**, 🐬 **MySQL**
-- 🌐 **Next.js**, 🧪 **Postman**
-- 🐙 **Git**, 💻 **GitHub**, 🐳 **Docker**
+- 🌱 Currently learning **Computer Science Engineering**
+- 💬 Ask me anything about **Web2.0, Web3.0, or AI projects**
+- 📫 Reach me at: **vr347147@gmail.com**
+- ⚡ Fun fact: *I think I’m funny (and sometimes my code is too 😂)*
+
+---
+
+### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> </a>
+  <a href="https://twitter.com/codeai_vishal" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/vishal rajput" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.leetcode.com/vishal1_rajput" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/></a>
+  <a href="https://discord.gg/callme_vsr" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=callme-vr&show_icons=true&locale=en&layout=compact" alt="callme-vr" /></p>
+### 💻 Languages I Work With
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callme-vr&show_icons=true&locale=en" alt="callme-vr" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callme-vr&" alt="callme-vr" /></p>
+---
+
+### 🛠️ Tools, Frameworks & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=callme-vr&show_icons=true&theme=radical" alt="callme-vr stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=callme-vr&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callme-vr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 💡 Open Source Goals
+
+- 🔧 Building tools that empower devs  
+- 🌍 Creating tech that bridges Web2.0 and Web3.0  
+- 🚀 Contributing to meaningful open-source projects  
+- 👨‍🏫 Mentoring beginners in full-stack and blockchain tech
+
+---
+
+> ⚒️ *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+> 🧠 *“Stay curious, stay committed.”*
