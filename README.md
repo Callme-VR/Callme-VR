@@ -3,34 +3,42 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishal Rajput</h1>
-<h3 align="center">A Passionate Ai/Ml Engineer | Open Source Contributor | FullStack Developer</h3>
+<h3 align="center">AI/ML Engineer • Open Source Contributor • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=A Passionate Ai/Ml Engineer;Open+Source+Contributor;Algorithmic Trading Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=480&lines=AI%2FML+Engineer;Open+Source+Contributor;Algorithmic+Trading+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=callme-vr&label=Profile%20views&color=0e75b6&style=flat" alt="callme-vr" />
+  <img src="https://komarev.com/ghpvc/?username=callme-vr&label=Profile%20Views&color=0e75b6&style=flat" alt="callme-vr" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-- 🌱 Currently learning **Computer Science Engineering**
-- 💬 Ask me anything about **FullStack, or AI/Ml projects**
+- 🌱 Currently pursuing **Computer Science Engineering**
+- 💬 Ask me about **Full-Stack development or AI/ML projects**
 - 📫 Reach me at: **vr347147@gmail.com**
-- ⚡ Fun fact: *I think I’m funny (and sometimes my code is too 😂)*
+- ⚡ Fun fact: *I think I’m funny (and sometimes my code agrees 😄)*
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/codeai_vishal" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/vishal rajput" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.leetcode.com/vishal1_rajput" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode"/></a>
-  <a href="https://discord.gg/callme_vsr" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://twitter.com/codeai_vishal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/vishal-rajput" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/vishal1_rajput" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://discord.gg/callme_vsr" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -51,50 +59,65 @@
 
 ### 🛠️ Tools, Frameworks & Platforms
 
-<h2 align="left">
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack-0F172A?style=for-the-badge&logo=tanstack&logoColor=38BDF8"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-  <!-- Added -->
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack-0F172A?style=for-the-badge&logo=tanstack&logoColor=38BDF8"/>
-
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</h2>
+</p>
 
+---
+
+### 🤖 AI / ML Frameworks & Ecosystem
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1E293B?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callme-vr&show_icons=true&theme=radical" alt="callme-vr stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=callme-vr&show_icons=true&theme=radical"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=callme-vr&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=callme-vr&theme=radical&hide_border=true"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callme-vr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callme-vr&layout=compact&theme=radical"/>
 </p>
 
 ---
 
 ### 💡 Open Source Goals
 
-- 🔧 Building tools that empower devs  
-- 🌍 Creating tech that bridges Web2.0 and Web3.0  
+- 🔧 Building tools that empower developers  
+- 🌍 Creating technology that bridges Web2 and Web3  
 - 🚀 Contributing to meaningful open-source projects  
-- 👨‍🏫 Mentoring beginners in full-stack and blockchain tech
+- 👨‍🏫 Mentoring beginners in full-stack development
 
 ---
 
-> ⚒️ *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
-> 🧠 *“Stay curious, stay committed.”*
+> ⚒️ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
+> 🧠 *“Stay curious. Stay committed.”*
