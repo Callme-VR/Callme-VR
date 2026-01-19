@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishal Rajput</h1>
-<h3 align="center">A Passionate Ai/Ml Engineer | Open Source Contributor |</h3>
+<h3 align="center">A Passionate Ai/Ml Engineer | Open Source Contributor | FullStack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Blockchain+Explorer;AI+is+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=435&lines=A Passionate Ai/Ml Engineer;Open+Source+Contributor;Algorithmic Trading Algorithms" alt="Typing SVG" />
 </p>
 
 <p align="center">
