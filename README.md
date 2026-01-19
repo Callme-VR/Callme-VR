@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 - 🌱 Currently learning **Computer Science Engineering**
-- 💬 Ask me anything about **Web2.0, Web3.0, or AI projects**
+- 💬 Ask me anything about **FullStack, or AI/Ml projects**
 - 📫 Reach me at: **vr347147@gmail.com**
 - ⚡ Fun fact: *I think I’m funny (and sometimes my code is too 😂)*
 
