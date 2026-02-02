@@ -6,25 +6,27 @@
 <h3 align="center">AI/ML Engineer • Open Source Contributor • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=480&lines=AI%2FML+Engineer;Open+Source+Contributor;Algorithmic+Trading+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFBF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Open+Source+Contributor;Algorithmic+Trading+Systems;Building+AI+Products" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=callme-vr&label=Profile%20Views&color=0e75b6&style=flat" alt="callme-vr" />
+  <img src="https://komarev.com/ghpvc/?username=callme-vr&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
+### 👨‍💻 About Me
+
 - 🌱 Currently pursuing **Computer Science Engineering**
-- 💬 Ask me about **Full-Stack development or AI/ML projects**
+- 💬 Ask me about **Full-Stack Development, AI/ML, or System Design**
 - 📫 Reach me at: **vr347147@gmail.com**
-- ⚡ Fun fact: *I think I’m funny (and sometimes my code agrees 😄)*
+- ⚡ Fun fact: *Sometimes my code works on the first try. Sometimes.*
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://twitter.com/codeai_vishal" target="_blank">
@@ -72,52 +74,45 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 🤖 AI / ML Frameworks & Ecosystem
+### 🤖 AI / ML Ecosystem
 
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangSmith-1E293B?style=for-the-badge&logo=datadog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (FIXED)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callme-vr&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=callme-vr&show_icons=true&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=callme-vr&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=callme-vr&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callme-vr&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callme-vr&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
 ### 💡 Open Source Goals
 
-- 🔧 Building tools that empower developers  
-- 🌍 Creating technology that bridges Web2 and Web3  
-- 🚀 Contributing to meaningful open-source projects  
-- 👨‍🏫 Mentoring beginners in full-stack development
+- 🔧 Building tools that empower developers
+- 🌍 Bridging AI, Web, and scalable systems
+- 🚀 Contributing to impactful open-source projects
+- 👨‍🏫 Mentoring beginners in full-stack & AI
 
 ---
 
 > ⚒️ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
-> 🧠 *“Stay curious. Stay committed.”*
+> 🧠 *Stay curious. Stay consistent.*
