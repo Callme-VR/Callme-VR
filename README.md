@@ -90,9 +90,35 @@ Sometimes my code works on the first tryâ€¦ sometimes it compiles after coffee â
 
 ### AI / ML
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface"/>
-<img src="https://img.shields.io/badge/OpenAI-black?style=flat&logo=openai"/>
+
+<span style="margin:12px">
+<img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
+</span>
+
+<span style="margin:12px">
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="50"/>
+</span>
+
+<span style="margin:12px">
+<img src="https://cdn.simpleicons.org/pydantic/E92063" height="50"/>
+</span>
+
+<span style="margin:12px">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50"/>
+</span>
+
+<span style="margin:12px">
+<img src="https://cdn.simpleicons.org/openai/000000" height="50"/>
+</span>
+
+<span style="margin:12px">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="50"/>
+</span>
+
+<span style="margin:12px">
+<img src="https://cdn.simpleicons.org/anthropic/000000" height="50"/>
+</span>
+
 </p>
 
 ---
